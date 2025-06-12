@@ -25,6 +25,7 @@ You can view the live site [here](https://hamzatchiche.github.io/Blog-preview-ca
 
 ## 📁 Folder Structure
 
+
 project-folder/
 ├── assets/
 │ ├── fonts/
